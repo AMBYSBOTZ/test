@@ -121,7 +121,7 @@ async function start(){
   
   console.clear();
   console.log(color('------------------------------------------------------------------------', 'white'))
-  console.log(color(figlet.textSync('Senkuu - MD', {font: 'Standard',horizontalLayout: 'default',vertivalLayout: 'default',width: 80,whitespaceBreak: false }), 'red'))
+  console.log(color(figlet.textSync('AMBYS BOTZ', {font: 'Standard',horizontalLayout: 'default',vertivalLayout: 'default',width: 80,whitespaceBreak: false }), 'red'))
   console.log(color('------------------------------------------------------------------------', 'white'))
   console.log(color('[CREATOR]', 'aqua'), color(config.author, 'magenta'))
   console.log(color('[BOT]', 'aqua'), color('BOT is now Online!', 'magenta'))
